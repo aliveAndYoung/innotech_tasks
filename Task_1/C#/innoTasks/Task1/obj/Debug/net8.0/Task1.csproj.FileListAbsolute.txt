@@ -1,0 +1,14 @@
+F:\INNOTECH\Task_1\C#\innoTasks\Task1\bin\Debug\net8.0\Task1.exe
+F:\INNOTECH\Task_1\C#\innoTasks\Task1\bin\Debug\net8.0\Task1.deps.json
+F:\INNOTECH\Task_1\C#\innoTasks\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+F:\INNOTECH\Task_1\C#\innoTasks\Task1\bin\Debug\net8.0\Task1.dll
+F:\INNOTECH\Task_1\C#\innoTasks\Task1\bin\Debug\net8.0\Task1.pdb
+F:\INNOTECH\Task_1\C#\innoTasks\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+F:\INNOTECH\Task_1\C#\innoTasks\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+F:\INNOTECH\Task_1\C#\innoTasks\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+F:\INNOTECH\Task_1\C#\innoTasks\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+F:\INNOTECH\Task_1\C#\innoTasks\Task1\obj\Debug\net8.0\Task1.dll
+F:\INNOTECH\Task_1\C#\innoTasks\Task1\obj\Debug\net8.0\refint\Task1.dll
+F:\INNOTECH\Task_1\C#\innoTasks\Task1\obj\Debug\net8.0\Task1.pdb
+F:\INNOTECH\Task_1\C#\innoTasks\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+F:\INNOTECH\Task_1\C#\innoTasks\Task1\obj\Debug\net8.0\ref\Task1.dll
