@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Student management system | Contact</title>
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+        />
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css"
+            rel="stylesheet"
+        />
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand fw-bold" href="index.html"
+                    ><i class="bi bi-mortarboard"></i> Student Affairs</a
+                >
+                <button
+                    class="navbar-toggler"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#navbarNav"
+                    aria-controls="navbarNav"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation"
+                >
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="students.html"
+                                >Students</a
+                            >
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="add_student.html"
+                                >Add Student</a
+                            >
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="courses.html">Courses</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="about.html">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="contact.html"
+                                >Contact</a
+                            >
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <main class="container py-5" style="max-width: 500px">
+            <h2 class="mb-4 text-center">Contact</h2>
+            <form>
+                <div class="mb-3">
+                    <label for="contactName" class="form-label">Name</label>
+                    <input
+                        type="text"
+                        class="form-control"
+                        id="contactName"
+                        required
+                    />
+                </div>
+                <div class="mb-3">
+                    <label for="contactEmail" class="form-label">Email</label>
+                    <input
+                        type="email"
+                        class="form-control"
+                        id="contactEmail"
+                        required
+                    />
+                </div>
+                <div class="mb-3">
+                    <label for="contactMessage" class="form-label"
+                        >Message</label
+                    >
+                    <textarea
+                        class="form-control"
+                        id="contactMessage"
+                        rows="4"
+                        required
+                    ></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">
+                    Send Message
+                </button>
+            </form>
+            <div class="text-center mt-4 text-muted small">
+                <div>student.affairs@eg-edu.com</div>
+                <div>+2012 3456 7890</div>
+                <div> Tanta University </div>
+                <div>Sat-Thu, 8:00am - 4:00pm</div>
+            </div>
+        </main>
+        <footer class="bg-primary text-white text-center py-3 small mt-5">
+            &copy; 2025  Student management system
+        </footer>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    </body>
+</html>
