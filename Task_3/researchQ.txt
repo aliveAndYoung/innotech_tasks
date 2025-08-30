@@ -1,0 +1,7 @@
+ 1 =>
+every process is allocated its own virtual memory space and if another process attempts to access it improperly 
+an (AccessViolationException) is raised this protection is enforced by the operating system and the kernel
+
+2=>
+we can delete several elements at once by using the ( RemoveAll() ) method provided by the collection interface
+for example: items.RemoveAll(condition delegate); 

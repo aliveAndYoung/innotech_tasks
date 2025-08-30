@@ -1,0 +1,159 @@
+﻿[2025-08-30 17:06:13]
+ [  
+ === PROCESSOR INFORMATION ===
+Name: AMD Ryzen 5 5600H with Radeon Graphics         
+Manufacturer: AuthenticAMD
+Architecture: 9
+NumberOfCores: 6
+NumberOfLogicalProcessors: 12
+MaxClockSpeed: 3301 MHz
+CurrentClockSpeed: 3301 MHz
+L2CacheSize: 3072 KB
+L3CacheSize: 16384 KB
+SocketDesignation: FP6
+ProcessorId: 178BFBFF00A50F00
+
+
+=== PROCESSOR TEMPERATURE ===
+Temperature data from Win32_Processor:
+
+=== OPERATING SYSTEM INFORMATION ===
+Name: Microsoft Windows 11 Home|C:\WINDOWS|\Device\Harddisk0\Partition3
+Version: 10.0.26100
+BuildNumber: 26100
+Manufacturer: Microsoft Corporation
+OSArchitecture: 64-bit
+TotalVirtualMemorySize: 18.59 GB
+FreeVirtualMemory: 2.77 GB
+TotalVisibleMemorySize: 15.34 GB
+FreePhysicalMemory: 4.95 GB
+InstallDate: 20250225023328.000000+120
+LastBootUpTime: 20250830090133.500000+180
+SystemDirectory: C:\WINDOWS\system32
+
+
+=== RAM INFORMATION ===
+DeviceLocator: Bottom - Slot 1 (left)
+Capacity: 8.00 GB
+Speed: 3200 MHz
+Manufacturer: Micron Technology
+PartNumber: 4ATF1G64HZ-3G2F1    
+SerialNumber: 3F875503
+MemoryType: 0
+FormFactor: 12
+DataWidth: 64 bits
+TotalWidth: 64 bits
+
+DeviceLocator: Bottom - Slot 2 (right)
+Capacity: 8.00 GB
+Speed: 3200 MHz
+Manufacturer: Micron Technology
+PartNumber: 4ATF1G64HZ-3G2F1    
+SerialNumber: 3F87920E
+MemoryType: 0
+FormFactor: 12
+DataWidth: 64 bits
+TotalWidth: 64 bits
+
+
+=== HARD DISK INFORMATION ===
+Model: MTFDKBA512TFH-1BC1AABHA
+Manufacturer: (Standard disk drives)
+SerialNumber: 0000_0000_0000_0001_00A0_7523_3F5E_F98D.
+Size: 476.94 GB
+InterfaceType: SCSI
+MediaType: Fixed hard disk media
+Partitions: 4
+BytesPerSector: 512
+SectorsPerTrack: 63
+TotalCylinders: 62260
+TotalHeads: 255
+TotalSectors: 1000206900
+TotalTracks: 15876300
+FirmwareRevision: HPS0043
+Status: OK
+
+
+
+ ] 
+
+  [2025-08-30 17:05:11]
+ [  
+ === PROCESSOR INFORMATION ===
+Name: AMD Ryzen 5 5600H with Radeon Graphics         
+Manufacturer: AuthenticAMD
+Architecture: 9
+NumberOfCores: 6
+NumberOfLogicalProcessors: 12
+MaxClockSpeed: 3301 MHz
+CurrentClockSpeed: 3301 MHz
+L2CacheSize: 3072 KB
+L3CacheSize: 16384 KB
+SocketDesignation: FP6
+ProcessorId: 178BFBFF00A50F00
+
+
+=== PROCESSOR TEMPERATURE ===
+Temperature data from Win32_Processor:
+
+=== OPERATING SYSTEM INFORMATION ===
+Name: Microsoft Windows 11 Home|C:\WINDOWS|\Device\Harddisk0\Partition3
+Version: 10.0.26100
+BuildNumber: 26100
+Manufacturer: Microsoft Corporation
+OSArchitecture: 64-bit
+TotalVirtualMemorySize: 18.59 GB
+FreeVirtualMemory: 2.72 GB
+TotalVisibleMemorySize: 15.34 GB
+FreePhysicalMemory: 4.93 GB
+InstallDate: 20250225023328.000000+120
+LastBootUpTime: 20250830090133.500000+180
+SystemDirectory: C:\WINDOWS\system32
+
+
+=== RAM INFORMATION ===
+DeviceLocator: Bottom - Slot 1 (left)
+Capacity: 8.00 GB
+Speed: 3200 MHz
+Manufacturer: Micron Technology
+PartNumber: 4ATF1G64HZ-3G2F1    
+SerialNumber: 3F875503
+MemoryType: 0
+FormFactor: 12
+DataWidth: 64 bits
+TotalWidth: 64 bits
+
+DeviceLocator: Bottom - Slot 2 (right)
+Capacity: 8.00 GB
+Speed: 3200 MHz
+Manufacturer: Micron Technology
+PartNumber: 4ATF1G64HZ-3G2F1    
+SerialNumber: 3F87920E
+MemoryType: 0
+FormFactor: 12
+DataWidth: 64 bits
+TotalWidth: 64 bits
+
+
+=== HARD DISK INFORMATION ===
+Model: MTFDKBA512TFH-1BC1AABHA
+Manufacturer: (Standard disk drives)
+SerialNumber: 0000_0000_0000_0001_00A0_7523_3F5E_F98D.
+Size: 476.94 GB
+InterfaceType: SCSI
+MediaType: Fixed hard disk media
+Partitions: 4
+BytesPerSector: 512
+SectorsPerTrack: 63
+TotalCylinders: 62260
+TotalHeads: 255
+TotalSectors: 1000206900
+TotalTracks: 15876300
+FirmwareRevision: HPS0043
+Status: OK
+
+
+
+ ] 
+
+  
